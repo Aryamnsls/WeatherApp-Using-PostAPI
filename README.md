@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# WeatherApp-Using-PostAPI
+A WeatherApp built using a frontend (React.js) fetches real-time weather data by sending a POST request to a weather API (tested via Postman). The app allows users to input a city name, sends it to the API, and displays weather details such as temperature, humidity, and conditions.
+>>>>>>> b7193ae88ce7fc186724644d81ed3cb63376b927
